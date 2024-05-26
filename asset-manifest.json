@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/movie/static/css/main.6544d106.chunk.css",
+    "main.js": "/movie/static/js/main.789c49bd.chunk.js",
+    "main.js.map": "/movie/static/js/main.789c49bd.chunk.js.map",
+    "runtime-main.js": "/movie/static/js/runtime-main.bdbebd6e.js",
+    "runtime-main.js.map": "/movie/static/js/runtime-main.bdbebd6e.js.map",
+    "static/css/2.fe62fa80.chunk.css": "/movie/static/css/2.fe62fa80.chunk.css",
+    "static/js/2.8bf9a618.chunk.js": "/movie/static/js/2.8bf9a618.chunk.js",
+    "static/js/2.8bf9a618.chunk.js.map": "/movie/static/js/2.8bf9a618.chunk.js.map",
+    "index.html": "/movie/index.html",
+    "precache-manifest.82806b12df6eb28f0aa7752c93d14fa0.js": "/movie/precache-manifest.82806b12df6eb28f0aa7752c93d14fa0.js",
+    "service-worker.js": "/movie/service-worker.js",
+    "static/css/2.fe62fa80.chunk.css.map": "/movie/static/css/2.fe62fa80.chunk.css.map",
+    "static/css/main.6544d106.chunk.css.map": "/movie/static/css/main.6544d106.chunk.css.map",
+    "static/js/2.8bf9a618.chunk.js.LICENSE.txt": "/movie/static/js/2.8bf9a618.chunk.js.LICENSE.txt",
+    "static/media/assortment-cinema-elements-red-background-with-copy-space.jpg": "/movie/static/media/assortment-cinema-elements-red-background-with-copy-space.d8a5b388.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdbebd6e.js",
+    "static/css/2.fe62fa80.chunk.css",
+    "static/js/2.8bf9a618.chunk.js",
+    "static/css/main.6544d106.chunk.css",
+    "static/js/main.789c49bd.chunk.js"
+  ]
+}
